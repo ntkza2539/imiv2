@@ -1,0 +1,62 @@
+{
+    "minPerbet": 99,
+    "maxPerbet": 999999,
+    "numPerbet": 999999,
+    "commission": {
+        "A": 0,
+        "B": 10,
+        "C": 20
+    },
+    "Reward": {
+        "LINE_A1": {
+            "Reward": 90
+        },
+        "LINE_A2": {
+            "Reward": 80
+        },
+        "LINE_A3": {
+            "Reward": 70
+        },
+        "LINE_A4": {
+            "Reward": 60
+        },
+        "LINE_A5": {
+            "Reward": 50
+        },
+        "LINE_B1": {
+            "Reward": 80
+        },
+        "LINE_B2": {
+            "Reward": 70
+        },
+        "LINE_B3": {
+            "Reward": 60
+        },
+        "LINE_B4": {
+            "Reward": 50
+        },
+        "LINE_B5": {
+            "Reward": 40
+        },
+        "LINE_C1": {
+            "Reward": 70
+        },
+        "LINE_C2": {
+            "Reward": 60
+        },
+        "LINE_C3": {
+            "Reward": 50
+        },
+        "LINE_C4": {
+            "Reward": 40
+        },
+        "LINE_C5": {
+            "Reward": 30
+        }
+    },
+    "percent": {
+        "Percent": 98,
+        "Take": 1
+    }
+
+}
