@@ -426,7 +426,6 @@
                      <div class="mb-3 col-md-2">
                         <select  class="form-control selectIdname">
                             `+op0_9+opA_Z+`
-    
                         </select>
                      </div>`;
                break;
